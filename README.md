@@ -9,10 +9,10 @@
 <!-- About-Me:START -->
 
 * Women in Tech Global Conference (WTGC) Scholar '23
-* Mentee at #include<her> Cohort 1.0.
+* Mentee at #include<her> Cohort 1.0 and #include<her>cohort 2.0.
 * Google Crowdsource Influencer. 
 * Open Source Contributor at GSSOC, TSOC and SSOC.
-* B. Tech ECE'25.
+  
 
 <!-- About-Me:End -->
 
